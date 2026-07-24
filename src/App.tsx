@@ -29,9 +29,9 @@ import emailjs from '@emailjs/browser'
 import logoJpg from './assets/logo1.png'
 import logo2 from './assets/logo2.png'
 import teamImg from './assets/team.svg'
-import finedgeImg from './assets/finedge.svg'
-import nexusImg from './assets/nexus.svg'
-import auraImg from './assets/aura.svg'
+import finedgeImg from './assets/finedge.png'
+import nexusImg from './assets/nexus.jpg'
+import auraImg from './assets/aura.png'
 
 function Logo({ theme }: { theme?: 'light' | 'dark' }) {
   if (theme === 'dark') {
