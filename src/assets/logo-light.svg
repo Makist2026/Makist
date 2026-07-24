@@ -1,0 +1,8 @@
+<svg width="240" height="56" viewBox="0 0 240 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="56" height="56" rx="9" fill="#FFFFFF"/>
+  <path d="M18 18L28 28L18 38" stroke="#06124A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M38 18L28 28L38 38" stroke="#06124A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(72,10)">
+    <text x="0" y="28" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" fill="#06124A">Makist</text>
+  </g>
+</svg>
